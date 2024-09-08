@@ -1,6 +1,6 @@
 .featured {
     display: flex;
-    margin: 20px;
+    margin: 50px;
     align-items: center;
     justify-content: center;
 }
@@ -13,7 +13,7 @@
 }
 
 .projects > div {
-    max-width: 150px;
+    max-width: 300px;
 }
 body {
     background-image: url('images/bg1.jpg');
