@@ -12,7 +12,7 @@
     justify-content: space-around;
 }
 
-.body {
+body {
     background-image: url('images/bg1.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
