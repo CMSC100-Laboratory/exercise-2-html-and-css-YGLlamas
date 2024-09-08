@@ -28,4 +28,6 @@ body {
     margin: 50px;
     justify-content: space-around;
 }
-
+.self > div {
+    max-width: 300px;
+}
