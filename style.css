@@ -12,6 +12,10 @@
     justify-content: space-around;
 }
 
+.projects > div {
+    max-width: 500px;
+    height: 100px;
+}
 body {
     background-image: url('images/bg1.jpg');
     background-repeat: no-repeat;
