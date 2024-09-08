@@ -1,3 +1,8 @@
+.featured {
+    margin: 20px;
+}
+
+
 .projects {
     display: flex;
     border-style: solid;
