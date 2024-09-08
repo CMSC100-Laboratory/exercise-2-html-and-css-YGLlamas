@@ -1,5 +1,6 @@
 .featured {
     margin: 20px;
+    align-items: center;
 }
 
 
@@ -9,4 +10,8 @@
     border-width: 5px;
     border-color: red;
     justify-content: space-around;
+}
+
+.body {
+    background-image: url('images/bg1.jfif');
 }
