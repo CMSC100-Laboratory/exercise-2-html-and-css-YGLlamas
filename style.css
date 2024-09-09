@@ -32,7 +32,7 @@ body {
     max-width: 300px;
 }
 
-ul {
+.navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -40,11 +40,11 @@ ul {
     background-color: #333;
   }
   
-  li {
+  .navbar li {
     float: left;
   }
   
-  li > a {
+  .navbar li > a {
     display: block;
     color: white;
     text-align: center;
@@ -53,6 +53,6 @@ ul {
     font-family:Verdana;
   }
   
-  li a:hover {
+  .navbar a:hover {
     background-color: #111;
   }
