@@ -44,7 +44,7 @@ ul {
     float: left;
   }
   
-  li a {
+  li > a {
     display: block;
     color: white;
     text-align: center;
